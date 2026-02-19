@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Onur Mert Çeldir 👋</h1>
 
 <p align="center">
-  <em>PhD Student in Computer Science @ Dokuz Eylül University, Turkey</em>
+  <em>PhD Student @ Dokuz Eylül University, Turkey</em>
 </p>
 
 <p align="center">
